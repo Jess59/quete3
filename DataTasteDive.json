@@ -1,0 +1,12 @@
+[
+    {
+      "query": "Queen",
+      "type": "band",
+      "limit": 10
+    },
+    {
+      "query": "Muse",
+      "type": "band",
+      "limit": 5
+    }
+  ]
